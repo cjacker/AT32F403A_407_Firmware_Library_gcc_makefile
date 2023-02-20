@@ -12,5 +12,7 @@ And with below changes:
 
 The default bsp sources is not build for this demo.
 
+For how to program AT32F, please refer to [opensource toolchain stm32 tutorial](https://github.com/cjacker/opensource-toolchain-stm32), you need patch your openocd or a forked openocd from : https://github.com/ArteryTek/openocd
+
 For other AT32F models, you can take this 'Makefile' as example to create your own 'Makefile'.
 
